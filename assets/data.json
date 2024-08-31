@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Aphichet Krodsuea",
+        "email": "Aphichet.kr@mail.wu.ac.th",
+        "password": "1q2w3e4r",
+        "gender": "Male"
+      }
+    ]
+  }
+  
